@@ -1,2 +1,0 @@
-# bktest
-test
